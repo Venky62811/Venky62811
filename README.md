@@ -1,5 +1,6 @@
-<!-- Banner / Header -->
-<img src="https://i.imgur.com/8MupZHY.gif" width="50%" alt="Hello World Banner" />
+<p align="center">
+  <img src="https://github.com/rajput2107/rajput2107/blob/master/Assets/Developer.gif" width="300"/>
+</p>
 
 
 <h1 align="center">Hi there, I'm venkataramana gokurla 👋</h1>
