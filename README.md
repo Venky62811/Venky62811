@@ -1,4 +1,4 @@
-<!-- 
+ <!-- 
 README for Venky62811
 Update this file with new projects, achievements, and skills as you grow!
 Recruiters: Please review my skills, projects, and contact info below.
@@ -27,6 +27,13 @@ I thrive on solving challenging problems and collaborating in fast-paced environ
 ---
 ## 🎥 Video Pitch  
 [▶ Watch My 60-sec Introduction](https://youtu.be/YourVideoLink)  
+
+---
+## 🛠️ Technical Skills  
+- **Languages:** Java, Advanced Java, JavaScript  
+- **Frameworks:** Spring Boot, Spring, Flask  
+- **Databases:** SQL, Oracle, MySQL
+- **Tools:** Git, GitHub, Eclipse, VS Code  
 
 ---
 
