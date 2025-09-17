@@ -89,7 +89,7 @@ I thrive on solving challenging problems and collaborating in fast-paced environ
  
 
 <p align="center">
-  <a href="https://github.com/Venky62811/Image captioning" target="_blank">
+  <a href="https://github.com/Venky62811/Image Captioning" target="_blank">
     <img src="https://img.shields.io/badge/View%20Project-8A2BE2?style=for-the-badge&logo=github&logoColor=white"/>
   </a>
 </p>
