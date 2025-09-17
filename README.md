@@ -1,5 +1,5 @@
 <!-- Banner / Header -->
-<img src="https://i.imgur.com/8MupZHY.gif" width="100%" alt="Hello World Banner" />
+<img src="https://i.imgur.com/8MupZHY.gif" width="50%" alt="Hello World Banner" />
 
 
 <h1 align="center">Hi there, I'm venkataramana gokurla 👋</h1>
