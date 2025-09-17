@@ -1,4 +1,3 @@
-
 <!-- 
 README for Venky62811
 Update this file with new projects, achievements, and skills as you grow!
@@ -11,6 +10,7 @@ Recruiters: Please review my skills, projects, and contact info below.
 
 <h1 align="center">👋 Hi, I'm Venkataramana Gokurla</h1>
 <h3 align="center">💻 Java Full Stack Developer | Hyderabad, India</h3>
+
 <p align="center">
   Building scalable backend solutions with Spring Boot, AWS, and modern DevOps.<br>
   Eager to join a visionary tech team!
@@ -20,11 +20,13 @@ Recruiters: Please review my skills, projects, and contact info below.
 
 ## 👨‍💻 About Me
 
-I'm a recent graduate with a passion for backend development, cloud solutions, and clean, efficient code. I thrive on solving challenging problems and collaborating in fast-paced environments. Actively seeking full-time opportunities to contribute, learn, and grow in a tech-driven organization.
+I'm a recent graduate with a passion for backend development, cloud solutions, and clean, efficient code.  
+I thrive on solving challenging problems and collaborating in fast-paced environments.  
+*Actively seeking full-time opportunities* to contribute, learn, and grow in a tech-driven organization.
 
 ---
 
-## 🛠️ Tech Stack
+## 🛠 Tech Stack
 
 <table>
   <tr>
@@ -65,6 +67,74 @@ I'm a recent graduate with a passion for backend development, cloud solutions, a
 
 ---
 
+## 🚀 Featured Projects
+
+<table>
+<tr>
+<td align="center" width="48%">
+<img src="https://img.shields.io/badge/Java-Orange?style=for-the-badge&logo=java&logoColor=white"/>
+  
+### 1. Deep Learning Based Image Captioning System  
+- 🖼️ Built an AI system combining **Computer Vision + NLP** for multilingual captions.  
+- 🔊 Integrated **text-to-speech** for accessibility.  
+- 🌐 Web interface for image upload & caption generation.  
+- 🛠️ Tech: Python, Flask, Transformers, HTML/CSS  
+🔗 [GitHub Repo](https://github.com/Venky62811/Image-Captioning-System)  
+
+---
+### 2. Student Management System  
+- 📚 Role-based application (Admin/Student/Teacher/Staff) with full CRUD functionality.  
+- ✅ Replaced manual processes with secure database storage.  
+- 🛠️ Tech: Java, MS Access  
+🔗 [GitHub Repo](https://github.com/Venky62811/Student-Management-System)  
+
+
+<p align="center">
+  <a href="https://github.com/Venky62811/Bytecode_Assignments" target="_blank">
+    <img src="https://img.shields.io/badge/View%20Project-8A2BE2?style=for-the-badge&logo=github&logoColor=white"/>
+  </a>
+</p>
+
+<p align="center">
+  <a href="https://github.com/Venky62811/Bytecode_Assignments/raw/main/docs/Bytecode_Assignments_Documentation.pdf" target="_blank">
+    <img src="https://img.shields.io/badge/View%20Document-FF9800?style=for-the-badge&logo=readthedocs&logoColor=white"/>
+  </a>
+</p>
+</td>
+
+<td align="center" width="48%">
+<img src="https://img.shields.io/badge/Java-Orange?style=for-the-badge&logo=java&logoColor=white"/>
+
+### *Bytecode*  
+💡 *Key Highlights:*  
+- ✅ Built *Microservices-based backend system*  
+- 🛠 Integrated *Docker, AWS, and CI/CD pipelines*  
+- 📈 Scalable architecture suitable for real-world deployments  
+- 🛠 *Tech:* Java, Microservices, Docker, AWS  
+
+<p align="center">
+  <a href="https://github.com/Venky62811/Bytecode" target="_blank">
+    <img src="https://img.shields.io/badge/View%20Project-8A2BE2?style=for-the-badge&logo=github&logoColor=white"/>
+  </a>
+</p>
+
+<p align="center">
+  <a href="https://github.com/Venky62811/Bytecode/raw/main/docs/Bytecode_Documentation.pdf" target="_blank">
+    <img src="https://img.shields.io/badge/View%20Document-FF9800?style=for-the-badge&logo=readthedocs&logoColor=white"/>
+  </a>
+</p>
+</td>
+</tr>
+</table>
+
+---
+
+<p align="center">
+  <img src="https://img.shields.io/badge/More%20Projects-Coming%20Soon-yellow?style=for-the-badge"/>
+</p>
+
+---
+
 ## 📊 Interactive GitHub Stats
 
 <div align="center">
@@ -76,50 +146,16 @@ I'm a recent graduate with a passion for backend development, cloud solutions, a
 
 ---
 
-## 🚀 Featured Projects
-
-### 🔥 **Bytecode Assignments**
-_A collection of backend assignments demonstrating Java, Spring Boot, MySQL mastery._  
-**Tech Used:** Java, Spring Boot, MySQL  
-[🔗 View Repository](https://github.com/Venky62811/Bytecode_Assignments)
-
-### 🔥 **Bytecode**
-_Microservices-based backend system with Docker and AWS integration._  
-**Tech Used:** Java, Microservices, Docker, AWS  
-[🔗 View Repository](https://github.com/Venky62811/Bytecode)
-
-<!-- 
-Add more projects below as you build them, following the template:
-### 🔥 **[Project Title]**
-_[Brief description of the project's goal.]_
-**Tech Used:** [Tech List]
-[🔗 View Repository](https://github.com/Venky62811/[project-repo])
--->
-
----
-
 ## 🌐 Let's Connect!
 
 <p align="center">
   <a href="https://linkedin.com/in/venkataramana21" target="_blank">
-    <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/linkedin/linkedin-original.svg" width="30" /> LinkedIn
+    <img src="https://img.shields.io/badge/LinkedIn-blue?logo=linkedin&logoColor=white&style=for-the-badge"/>
   </a>
-  &nbsp;|&nbsp;
+  &nbsp;
   <a href="mailto:venkataramanagokurla@gmail.com" target="_blank">
-    <img src="https://img.shields.io/badge/email-D14836?style=flat&logo=gmail&logoColor=white" /> Email
+    <img src="https://img.shields.io/badge/Email-D14836?style=for-the-badge&logo=gmail&logoColor=white"/>
   </a>
-  <!-- Optional Portfolio link 
-  &nbsp;|&nbsp;
-  <a href="https://yourportfolio.com" target="_blank">
-    <img src="https://img.shields.io/badge/portfolio-24292f?style=flat&logo=github&logoColor=white" /> Portfolio
-  </a>
-  -->
 </p>
+
 <p align="center"><b>Actively seeking full-time developer roles! Let's connect and build something great together.</b></p>
-
----
-
-<!--
-🎉 Keep enriching this README as you build new skills, projects, and achievements!
-Recruiters: Please feel free to reach out for collaboration or opportunities.
--->
