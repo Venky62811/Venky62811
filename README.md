@@ -23,6 +23,13 @@ I thrive on solving challenging problems and collaborating in fast-paced environ
 Actively seeking full-time opportunities to contribute, learn, and grow in a tech-driven organization.
 
 ---
+## 🛠️ Technical Skills  
+- **Languages:** Java, Advanced Java, JavaScript  
+- **Frameworks:** Spring Boot, Spring, Flask  
+- **Databases:** SQL, Oracle, MySQL, MS Access  
+- **Tools:** Git, GitHub, Eclipse, VS Code  
+
+---
 
 ## 🎥 Video Pitch  
 [▶ Watch My 60-sec Introduction](https://youtu.be/YourVideoLink)  
