@@ -25,8 +25,8 @@ Actively seeking full-time opportunities to contribute, learn, and grow in a tec
 ---
 ## 🛠️ Technical Skills  
 - **Languages:** Java, Advanced Java, JavaScript  
-- **Frameworks:** Spring Boot, Spring, Flask  
-- **Databases:** SQL, Oracle, MySQL, MS Access  
+- **Frameworks:** Spring Boot, Spring  
+- **Databases:** SQL, Oracle, MySQL
 - **Tools:** Git, GitHub, Eclipse, VS Code  
 
 ---
