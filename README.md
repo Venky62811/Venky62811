@@ -5,7 +5,7 @@ Recruiters: Please review my skills, projects, and contact info below.
 -->
 
 <p align="center">
-  <img src="https://i.imgur.com/A6bWGFl.gif" width="300" alt="Coding gif"/>
+  <img src="https://github.com/rajput2107/rajput2107/blob/master/Assets/Developer.gif" width="300"/>
 </p>
 
 <h1 align="center">👋 Hi, I'm Venkataramana Gokurla</h1>
