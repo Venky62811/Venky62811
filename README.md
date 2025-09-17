@@ -1,3 +1,4 @@
+
 <!-- 
 README for Venky62811
 Update this file with new projects, achievements, and skills as you grow!
@@ -55,7 +56,7 @@ I'm a recent graduate with a passion for backend development, cloud solutions, a
       <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/mongodb/mongodb-original.svg" width="40" alt="MongoDB" />
     </td>
     <td align="center">
-      
+      <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/amazonwebservices/amazonwebservices-original.svg" width="40" alt="AWS" />
       <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/jenkins/jenkins-original.svg" width="40" alt="Jenkins" />
       <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/git/git-original.svg" width="40" alt="Git" />
     </td>
