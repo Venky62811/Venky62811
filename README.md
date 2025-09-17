@@ -83,13 +83,13 @@ I thrive on solving challenging problems and collaborating in fast-paced environ
 - 🔊 Integrated **text-to-speech** for accessibility.  
 - 🌐 Web interface for image upload & caption generation.  
 - 🛠️ Tech: Python, Flask, Transformers, HTML/CSS  
-🔗 [GitHub Repo](https://github.com/YourUsername/Image-Captioning-System)  
+🔗 [GitHub Repo](https://github.com/Venky62811/Image-Captioning-System)  
 
 ---
  
 
 <p align="center">
-  <a href="https://github.com/Venky62811/Bytecode_Assignments" target="_blank">
+  <a href="https://github.com/Venky62811/Image captioning" target="_blank">
     <img src="https://img.shields.io/badge/View%20Project-8A2BE2?style=for-the-badge&logo=github&logoColor=white"/>
   </a>
 </p>
@@ -108,11 +108,11 @@ I thrive on solving challenging problems and collaborating in fast-paced environ
 - 📚 Role-based application (Admin/Student/Teacher/Staff) with full CRUD functionality.  
 - ✅ Replaced manual processes with secure database storage.  
 - 🛠️ Tech: Java, MS Access  
-🔗 [GitHub Repo](https://github.com/YourUsername/Student-Management-System)  
+🔗 [GitHub Repo](https://github.com/Venky62811/Student-Management-System)  
 
 
 <p align="center">
-  <a href="https://github.com/Venky62811/Bytecode" target="_blank">
+  <a href="https://github.com/Venky62811/Student-Management-System" target="_blank">
     <img src="https://img.shields.io/badge/View%20Project-8A2BE2?style=for-the-badge&logo=github&logoColor=white"/>
   </a>
 </p>
