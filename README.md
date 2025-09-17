@@ -85,9 +85,6 @@ I thrive on solving challenging problems and collaborating in fast-paced environ
 - 🛠️ Tech: Python, Flask, Transformers, HTML/CSS  
 🔗 [GitHub Repo](https://github.com/Venky62811/Image-Captioning-System)  
 
----
- 
-
 <p align="center">
   <a href="https://github.com/Venky62811/Image Captioning" target="_blank">
     <img src="https://img.shields.io/badge/View%20Project-8A2BE2?style=for-the-badge&logo=github&logoColor=white"/>
@@ -95,7 +92,7 @@ I thrive on solving challenging problems and collaborating in fast-paced environ
 </p>
 
 <p align="center">
-  <a href="https://github.com/Venky62811/Bytecode_Assignments/raw/main/docs/Bytecode_Assignments_Documentation.pdf" target="_blank">
+  <a href="https://github.com/Venky62811/Bytecode_Assignments/raw/main/docs/Image_Captioning_Documentation.pdf" target="_blank">
     <img src="https://img.shields.io/badge/View%20Document-FF9800?style=for-the-badge&logo=readthedocs&logoColor=white"/>
   </a>
 </p>
@@ -118,7 +115,7 @@ I thrive on solving challenging problems and collaborating in fast-paced environ
 </p>
 
 <p align="center">
-  <a href="https://github.com/Venky62811/Bytecode/raw/main/docs/Bytecode_Documentation.pdf" target="_blank">
+  <a href="https://github.com/Venky62811/Bytecode/raw/main/docs/Student_management_System_Documentation.pdf" target="_blank">
     <img src="https://img.shields.io/badge/View%20Document-FF9800?style=for-the-badge&logo=readthedocs&logoColor=white"/>
   </a>
 </p>
