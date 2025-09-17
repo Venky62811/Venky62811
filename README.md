@@ -100,12 +100,12 @@ Actively seeking full-time opportunities to contribute, learn, and grow in a tec
 
 <img src="https://img.shields.io/badge/Java-Orange?style=for-the-badge&logo=java&logoColor=white"/>
 
-### 2. Student Management System  
+### 2. School Management System  
 - 📚 Role-based application (Admin/Student/Teacher/Staff) with full CRUD functionality.  
 - ✅ Replaced manual processes with secure database storage.  
 - 🛠 Tech: Java, MS Access  
 
-🔗 [GitHub Repo](https://github.com/Venky62811/Student-Management-System)  
+🔗 [GitHub Repo](https://github.com/Venky62811/School-Management-System)  
 
 <p align="center">
   <a href="https://github.com/Venky62811/Student-Management-System" target="_blank">
