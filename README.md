@@ -1,9 +1,8 @@
- <!-- 
+<!-- 
 README for Venky62811
 Update this file with new projects, achievements, and skills as you grow!
 Recruiters: Please review my skills, projects, and contact info below.
 -->
-
 <p align="center">
   <img src="https://github.com/rajput2107/rajput2107/blob/master/Assets/Developer.gif" width="300"/>
 </p>
@@ -19,26 +18,18 @@ Recruiters: Please review my skills, projects, and contact info below.
 ---
 
 ## 👨‍💻 About Me
-
 I'm a recent graduate with a passion for backend development, cloud solutions, and clean, efficient code.  
 I thrive on solving challenging problems and collaborating in fast-paced environments.  
-*Actively seeking full-time opportunities* to contribute, learn, and grow in a tech-driven organization.
+Actively seeking full-time opportunities to contribute, learn, and grow in a tech-driven organization.
 
 ---
+
 ## 🎥 Video Pitch  
 [▶ Watch My 60-sec Introduction](https://youtu.be/YourVideoLink)  
 
 ---
-## 🛠️ Technical Skills  
-- **Languages:** Java, Advanced Java, JavaScript  
-- **Frameworks:** Spring Boot, Spring, Flask  
-- **Databases:** SQL, Oracle, MySQL
-- **Tools:** Git, GitHub, Eclipse, VS Code  
-
----
 
 ## 🛠 Tech Stack
-
 <table>
   <tr>
     <td><b>Languages</b></td>
@@ -79,25 +70,25 @@ I thrive on solving challenging problems and collaborating in fast-paced environ
 ---
 
 ## 🚀 Featured Projects
-
 <table>
 <tr>
 <td align="center" width="48%">
-<img src="https://img.shields.io/badge/Java-Orange?style=for-the-badge&logo=java&logoColor=white"/>
+
+<img src="https://img.shields.io/badge/Python-blue?style=for-the-badge&logo=python&logoColor=white"/>
 
 ### 1. Deep Learning Based Image Captioning System  
-- 🖼️ Built an AI system combining **Computer Vision + NLP** for multilingual captions.  
-- 🔊 Integrated **text-to-speech** for accessibility.  
+- 🖼 Built an AI system combining Computer Vision + NLP for multilingual captions.  
+- 🔊 Integrated text-to-speech for accessibility.  
 - 🌐 Web interface for image upload & caption generation.  
-- 🛠️ Tech: Python, Flask, Transformers, HTML/CSS  
+- 🛠 Tech: Python, Flask, Transformers, HTML/CSS  
+
 🔗 [GitHub Repo](https://github.com/Venky62811/Image-Captioning-System)  
 
 <p align="center">
-  <a href="https://github.com/Venky62811/Image Captioning" target="_blank">
+  <a href="https://github.com/Venky62811/Image-Captioning-System" target="_blank">
     <img src="https://img.shields.io/badge/View%20Project-8A2BE2?style=for-the-badge&logo=github&logoColor=white"/>
   </a>
 </p>
-
 <p align="center">
   <a href="https://github.com/Venky62811/Bytecode_Assignments/raw/main/docs/Image_Captioning_Documentation.pdf" target="_blank">
     <img src="https://img.shields.io/badge/View%20Document-FF9800?style=for-the-badge&logo=readthedocs&logoColor=white"/>
@@ -106,21 +97,21 @@ I thrive on solving challenging problems and collaborating in fast-paced environ
 </td>
 
 <td align="center" width="48%">
+
 <img src="https://img.shields.io/badge/Java-Orange?style=for-the-badge&logo=java&logoColor=white"/>
 
 ### 2. Student Management System  
 - 📚 Role-based application (Admin/Student/Teacher/Staff) with full CRUD functionality.  
 - ✅ Replaced manual processes with secure database storage.  
-- 🛠️ Tech: Java, MS Access  
-🔗 [GitHub Repo](https://github.com/Venky62811/Student-Management-System)  
+- 🛠 Tech: Java, MS Access  
 
+🔗 [GitHub Repo](https://github.com/Venky62811/Student-Management-System)  
 
 <p align="center">
   <a href="https://github.com/Venky62811/Student-Management-System" target="_blank">
     <img src="https://img.shields.io/badge/View%20Project-8A2BE2?style=for-the-badge&logo=github&logoColor=white"/>
   </a>
 </p>
-
 <p align="center">
   <a href="https://github.com/Venky62811/Bytecode/raw/main/docs/Student_management_System_Documentation.pdf" target="_blank">
     <img src="https://img.shields.io/badge/View%20Document-FF9800?style=for-the-badge&logo=readthedocs&logoColor=white"/>
@@ -139,7 +130,6 @@ I thrive on solving challenging problems and collaborating in fast-paced environ
 ---
 
 ## 📊 Interactive GitHub Stats
-
 <div align="center">
   <img src="https://github-readme-stats.vercel.app/api?username=Venky62811&show_icons=true&hide_border=true&theme=radical" width="46%" alt="GitHub Stats" />
   <img src="https://github-readme-streak-stats.herokuapp.com/?user=Venky62811&theme=radical&hide_border=true" width="46%" alt="GitHub Streak" />
@@ -150,7 +140,6 @@ I thrive on solving challenging problems and collaborating in fast-paced environ
 ---
 
 ## 🌐 Let's Connect!
-
 <p align="center">
   <a href="https://linkedin.com/in/venkataramana21" target="_blank">
     <img src="https://img.shields.io/badge/LinkedIn-blue?logo=linkedin&logoColor=white&style=for-the-badge"/>
