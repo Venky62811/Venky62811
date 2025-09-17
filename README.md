@@ -85,7 +85,7 @@ Actively seeking full-time opportunities to contribute, learn, and grow in a tec
 🔗 [GitHub Repo](https://github.com/Venky62811/Image-Captioning/commit/02025c192c6157ed4ad9b9144afccdec27230778 ) 
 
 <p align="center">
-  <a href="https://github.com/Venky62811/Image-Captioning-System" target="_blank">
+  <a href=https://github.com/Venky62811/Image-Captioning/commit/02025c192c6157ed4ad9b9144afccdec27230778 target="_blank">
     <img src="https://img.shields.io/badge/View%20Project-8A2BE2?style=for-the-badge&logo=github&logoColor=white"/>
   </a>
 </p>
