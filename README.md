@@ -112,7 +112,7 @@ Actively seeking full-time opportunities to contribute, learn, and grow in a tec
 - ✅ Replaced manual processes with secure database storage.  
 - 🛠 Tech: Java, MS Access  
 
-🔗 [GitHub Repo](https://github.com/Venky62811/School-Management-System)  
+🔗 [GitHub Repo](https://github.com/Venky62811/Student_Management_System.git)  
 
 <p align="center">
   <a href="https://github.com/Venky62811/Student-Management-System" target="_blank">
